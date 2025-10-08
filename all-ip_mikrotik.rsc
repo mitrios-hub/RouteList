@@ -394,14 +394,7 @@ add address=168.143.171.93 list=PROXY
 add address=168.143.171.154 list=PROXY
 add address=168.143.171.186 list=PROXY
 add address=168.143.171.189 list=PROXY
-add address=172.64.146.15 list=PROXY
-add address=172.64.148.171 list=PROXY
-add address=172.64.150.0/24 list=PROXY
-add address=172.64.151.110 list=PROXY
-add address=172.64.152.228 list=PROXY
-add address=172.64.154.211 list=PROXY
-add address=172.64.155.209 list=PROXY
-add address=172.64.155.214 list=PROXY
+add address=172.64.0.0/24 list=PROXY
 add address=172.66.0.0/24 list=PROXY
 add address=172.67.170.183 list=PROXY
 add address=172.217.0.0/16 list=PROXY
