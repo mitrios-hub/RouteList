@@ -246,6 +246,7 @@ add address=104.244.44.0/24 list=PROXY
 add address=104.244.45.0/24 list=PROXY
 add address=104.244.46.0/24 list=PROXY
 add address=104.244.47.0/24 list=PROXY
+add address=107.155.0.0/18 list=PROXY
 add address=107.167.27.0/24 list=PROXY
 add address=107.181.166.244 list=PROXY
 add address=108.160.160.0/21 list=PROXY
@@ -570,13 +571,6 @@ add address=213.102.128.0/24 list=PROXY
 add address=213.230.209.0/24 list=PROXY
 add address=216.40.34.0/24 list=PROXY
 add address=216.58.0.0/16 list=PROXY
-add address=216.239.32.21 list=PROXY
-add address=216.239.32.27 list=PROXY
-add address=216.239.32.29 list=PROXY
-add address=216.239.34.21 list=PROXY
-add address=216.239.36.21 list=PROXY
-add address=216.239.38.21 list=PROXY
-add address=216.239.38.120 list=PROXY
-add address=216.239.38.132 list=PROXY
+add address=216.239.32.0/19 list=PROXY
 add address=217.168.6.0/24 list=PROXY
 add address=220.181.174.0/24 list=PROXY
