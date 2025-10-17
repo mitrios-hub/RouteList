@@ -826,7 +826,6 @@ add address=213.230.52.0/22 list=PROXY
 add address=213.52.0.0/17 list=PROXY
 add address=213.55.64.0/18 list=PROXY
 add address=213.57.0.0/17 list=PROXY
-add address=213.59.192.0/18 list=PROXY
 add address=213.94.76.0/24 list=PROXY
 add address=216.105.64.0/20 list=PROXY
 add address=216.123.192.0/18 list=PROXY

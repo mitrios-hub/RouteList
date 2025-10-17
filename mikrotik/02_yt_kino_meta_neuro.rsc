@@ -860,7 +860,6 @@ add address=212.90.48.0/20 list=PROXY
 add address=213.152.1.64/27 list=PROXY
 add address=213.202.0.0/21 list=PROXY
 add address=213.55.64.0/18 list=PROXY
-add address=213.59.192.0/18 list=PROXY
 add address=216.105.64.0/20 list=PROXY
 add address=216.123.192.0/18 list=PROXY
 add address=216.19.176.0/20 list=PROXY
