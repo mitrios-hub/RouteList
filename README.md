@@ -3,6 +3,7 @@ _обновлено в 23:30 2025.oct.18_
 # vpn Route list
 Список адресов для статической маршрутизации:
 - meta
+- tiktok
 - x (twitter)
 - yt
 - **messengers**: fb, tlg, wa, discord
